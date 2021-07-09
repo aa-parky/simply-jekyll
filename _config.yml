@@ -45,11 +45,11 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: Working with the garage door up
+  name: Working with the garage door up on ports 443 & 1965
 copyright: 
   year: 2021
-  msg: AA Parky # This is a mandatory attribute for copyright to be displayed
-
+  msg: A.A. Parky 
+  # This is a mandatory attribute for copyright to be displayed
 user:
   display: true # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 

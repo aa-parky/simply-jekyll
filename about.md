@@ -5,47 +5,46 @@ permalink: /about/
 content-type: eg
 ---
 
+## I am Parky
+Hello! Welcome to my very simple digital garden. I doubt very much that you will find anything of any value here, but please, feel free to look around.
 
-- I am a software engineer and a writer interested in the interplay between thoughts and constraints, the duality of interpretations and representations, and the nature of abstractions and correspondence between them. 
+Currently reading[[**Reading**<br><img src="/assets/img/current_read.png">::lsn]] because it is about space. I like space.
 
-- I am a long time practioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
+This site is being hosted over on [mythic beasts](https://www.mythic-beasts.com) and also self hosted on a Raspberry Pi 4, using the [gemini protocol](https://gemini.circumlunar.space), over at [tilde-pi.org](gemini://tilde-pi.org).
 
-- On this website I write articles about [[Computer Science::/tags/#Software]], [[Philosophy::/tags/#Philosophy]], Mathematics, and [[Generic Life Stuff::/tags/#General]]. Sometimes I also [[review::/tags/#Review]] books that I've read. You can find my programming side-projects on [[github::https://www.github.com/raghuveerdotnet]]
+## Background
 
-- I have a [[youtube channel::https://www.youtube.com/channel/UCESc8TaWpQxpHEnfhQLgzPQ]] on which I stream my work log(live writing sessions, coding sessions, reading/researching sessions, etc).
-  
-- If you find anything interesting about who I am or what I do, please do reach out to me. 👇
+It is simply a place for me to collate, in public view, some of my personal projects, work and abstractions. 
 
+I find that my ‘digital me’ collects and accumulates a huge amount of stuff. I have an idea for a project, I start to research, collect, accumulate get distracted, move on to something else, accumulate, research, get distracted, move on, well, you get the idea.
 
-## Reach out to me
+This site, whilst a collection of my own notes is to try and keep me honest and focused. Actually finish something I start. To create value in the time I spend researching and reading.  
 
-- Shoot me a dm or just tweet ***[[@raghuveerdotnet::https://twitter.com/raghuveerdotnet]]***. I will try to reply as soon as I can. 
-  
-- I live in Bangalore, so If you happen to be in Bangalore by chance and want to chat, drop an ***[[email::mailto:raghu@raghuveer.net]]*** and include [Coffee] in the subject line, and we can work something out.
-  
-- If you are not comfortable reaching out to me directly, you can also anonymously give me [[feedback::https://www.admonymous.co/raghuveerdotnet]]
+I am an emergency manager by trade, in the oil & gas industry, based in Aberdeen, Scotland over at Petrofac.
 
+I have reached the afternoon of my life.
 
 ## About the website
 
-### Features:
+### Aim:
+Increase my personal knowledge by bringing value to the time I spend reading, researching and using my computer. To further my personal and professional development.
 
 [[***Changelog***<br/>
-\- 14-05-20 Context Menu <br/>
-\- 08-05-20 Trivial Spaced Repetition <br/>
-\- 04-05-20 Removed Theming. <br/>
-\- 04-05-20 Removed Curated Notes. <br/>
-\- 01-04-20 Curated Notes. <br/>
-\- 30-04-20 Transclusion. <br/>
-\- 26-04-20 Sidenote. <br/>
-\- 20-04-20 Wiki link. <br/>
-\- 16-04-20 Theme. <br/>
-\- 16-04-20 Avatar. <br/>
-\- 11-02-20 Related Posts. <br/>
-\- 12-10-19 Searchbar. <br/>
-::rmn]]The original design[[**Original Design**<br><img src="/assets/img/firstdesign.jpg">::lsn]] of this website was a lot more ostentatious than what you see here. As I progressed through the development process of this website, the current design started emerging on its own. For reasons I don't even understand, the current design just started feeling more natural than the one I had in my mind initially. The bare and simple look-n-feel of this site, at least to me, encompasses the essence of all the things I love about the sites I frequently visit --- feed-like structure, previews, search with context, contextual backlinks, sidenotes, etc. I am hopeful that you'll love it too. :)
+\- 09-07-21 Initial set up. <br/>
 
-- **Page preview** (Move your mouse over the link): [[Adlerian Teleological Thinking and A Simplified Life]]
+### Objectives
+1. Work with the "garage door up"
+2. Find purpose
+3. Effectively track progress of my projects
+4. Discover loose ends
+5. Bring enjoyment to myself and others
+::rmn]]
+
+### Site Layout & Raghuveer's "Simply Jekyll"
+
+Just a few things that I am trying to understand whilst using jekyll and  [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]; 
+
+- **Page preview** (Move your mouse over the link): [[About]]
 - **Transclusion**: Allows you to see a partial view of the contents of the website to the right or the left of the margin.
 - **Sidenotes** (Changelog you see on the left is an example of this).
 - **Wiki-style link:** Usually wikis allow you to specify links using double bracket, I added it here using liquid. Also added bad-link highlighting
@@ -61,12 +60,4 @@ Some Less know features:
 
 - Click this card[[Memorize me so that you do well in your exams::srs]] looking thing to know how I use my notes. [Hint: SRS]
 
-
-Other Details:
-
-- The site lives on [[Github::https://github.com/raghuveerdotnet/simply-jekyll]] and is served using Netlify
-- This website is statically generated using Jekyll from a set of Markdown files.
-  - The Jekyll theme can be found on my Github Page, It is called "Simply-Jekyll"
-- Except lunrjs and katex, there are no third party libraries. Discord is an opt-in, I don't use on my [[site::https://raghuveer.net]]. I strongly believe in user privacy.
-
-
+- My Mug Shot[[<img src="/assets/img/profile2.png">::srs]] on a flashcard.
