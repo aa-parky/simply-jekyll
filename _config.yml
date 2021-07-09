@@ -28,14 +28,14 @@ url: "https://www.aaparky.uk" # the base hostname & protocol for your site, e.g.
 # your social media links etc
 #######################################################################
 
-heading: Simply Jekyll
+heading: aaparky.uk 
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Notes and Thoughts
+  name: My dusty hovel on the internet
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -45,27 +45,27 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An experiment to spark conversations
+  name: Working with the garage door up
 copyright: 
-  year: 2020
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  year: 2021
+  msg: AA Parky # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: true # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Raghuveer S
-  bio: Programmer ∪ Writer
-  email: raghu-veer@outlook.com
+  name: AA Parky
+  bio: Emergency Manager & Tinkerer 
+  email: 
   photo: /assets/img/profile.png
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: false  # turn this to true
-    twitter: raghuveerdotnet
-    github: raghuveerdotnet 
-    youtube: raghuveerdotnet 
-    linkedin: raghuveerdotnet  
+    twitter: null
+    github: null 
+    youtube: null
+    linkedin: null  
     twitch: null
     facebook: null 
     instagram: null
@@ -130,7 +130,7 @@ plugins:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: raghuveerdotnet
+    shortname:
 
 markdown: kramdown
 
